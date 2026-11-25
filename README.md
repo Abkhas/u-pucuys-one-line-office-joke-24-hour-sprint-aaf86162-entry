@@ -1,10 +1,10 @@
-![make.fun](https://make.fun/badge/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162.svg)
-![rank](https://make.fun/badge/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162/Abkhas/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162-entry/rank.svg)
-![reward](https://make.fun/badge/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162/Abkhas/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162-entry/reward.svg)
+[![make.fun · u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162](https://make.fun/badge/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162.svg)](https://make.fun/bounty/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162?utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162)
+[![rank](https://make.fun/badge/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162/Abkhas/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162-entry/rank.svg)](https://make.fun/bounty/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162)
+[![reward](https://make.fun/badge/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162/Abkhas/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162-entry/reward.svg)](https://make.fun/bounty/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162?utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162)
 
 # One-Line Office Joke: 24-Hour Sprint
 
-One line about office life, the sort you send a colleague after a meeting that should have been an email:
+One line about office life, the sort you send a colleague after a meeting that should have been an email — entered in [One-Line Office Joke: 24-Hour Sprint](https://make.fun/bounty/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162) on [make.fun](https://make.fun/):
 
 > I wrote 'per my last email' so politely that HR now uses it in training as the correct way to say 'I already told you.'
 
